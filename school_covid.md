@@ -1,6 +1,6 @@
+## Thought 1
 
-
-## I want to clarify that what you will read is my thought, which changes over time, but which I wanted to fix.
+###### I want to clarify that what you will read is my thought, which changes over time, but which I wanted to fix.
 
 
 Two words about the school at the time of Covid-19.
