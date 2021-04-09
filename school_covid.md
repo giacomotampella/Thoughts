@@ -6,6 +6,7 @@
 Two words about the school at the time of Covid-19.
 
 I immediately state one very important thing. Indeed 2.
+
 1) Covid was an unexpected event;
 2) School is the most important thing, together with health, that a state has to think about.
 
