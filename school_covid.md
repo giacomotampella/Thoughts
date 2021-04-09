@@ -119,5 +119,5 @@ As usual I have not written everything. So many thoughts come and go in my Mind.
 
 Well. Thanks for your time.
 
-Hello
+bye ;)
 Bagnara di Romagna - April 9, 2021 - 18:36 - Italy
