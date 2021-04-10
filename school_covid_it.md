@@ -2,6 +2,8 @@
 
 ###### Ci tengo a precisare che quello che leggerete è un mio Pensiero, che cambia nel tempo, ma che volevo fissare.
 
+![school](https://raw.githubusercontent.com/giacomotampella/Thoughts/gh-pages/school.jpg "school")
+
 
 Due parole sulla scuola al tempo del Covid-19.
 
