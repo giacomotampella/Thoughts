@@ -1,6 +1,6 @@
 ## Welcome to my Thoughts
 
-![heaven](wes-hicks-ZW6RUvsaFTc-unsplash.jpg "heaven")
+![heaven](heaven.jpg "heaven")
 
 [Thought #1 - School at the time of Covid](school_covid_en.md)
 
