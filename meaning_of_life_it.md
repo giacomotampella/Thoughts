@@ -2,6 +2,8 @@
 
 ###### Ci tengo a precisare che quello che leggerete è un mio Pensiero, che cambia nel tempo, ma che volevo fissare.
 
+![school](https://raw.githubusercontent.com/giacomotampella/Thoughts/gh-pages/books.jpg "school")
+
 
 Partiamo dal presupposto che quello che scriverò, sarà frutto di una visione pessimistica delle cose. Non tutto.
 
