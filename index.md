@@ -1,6 +1,6 @@
 ## Welcome to my Thoughts
 
-![heaven](https://github.com/giacomotampella/Thoughts/blob/gh-pages/heaven.jpg "heaven")
+![heaven](https://raw.githubusercontent.com/giacomotampella/Thoughts/gh-pages/heaven.jpg "heaven")
 
 [Thought #1 - School at the time of Covid](school_covid_en.md)
 
