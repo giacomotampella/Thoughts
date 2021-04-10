@@ -37,16 +37,29 @@ Arriva FINALMENTE l'estate. Dopo un anno così ci voleva. Eccome se ci voleva.
 Esco per la prima volta di casa dopo 3 mesi di segregazione (non li critico, e sono il primo a dire che erano essenziali). Vedo i miei amici. Tutto bellissimo.
 
 Posso dire addirittura che questa estate, Estate-2020, è stata forse l'estate più vissuta, più desiderata.
-Ricordo ancora una sera, a casa di un mio amico (eravamo in 4), che dicevamo: "questa estate ce la siamo meritata tutta, ne avevamo bisogno.". Verissimo.
+Ricordo ancora una sera, a casa di un mio amico (eravamo in 4), che dicevamo: 
+
+> "questa estate ce la siamo meritata tutta, ne avevamo bisogno.". 
+
+Verissimo.
 
 Devo essere sincero, per alcuni momenti ho dimenticato persino cosa fosse il Covid. Sì, perché alla fin fine questa è stata un'estate più o meno come tutte le altre.
 
 Arriva settembre. E si inizia a parlare di scuola (in tempo direi...). Tutti vogliamo tornare a scuola. In primis noi studenti. E ci tengo a sottolinearlo.
 
 Io, da buon studente quale sono, mmi immaginavo che all'interno del Ministero dell'Istruzione avessero passato una estate molto piena, dovendo pianificare il ritorno a scuola di tutti gli studenti d'Italia.
-E invece no. Che mente infantile vero? Hanno ragione gli adulti a dire a noi (ragazzini): "ma che ne sapete voi. Siete troppo giovani". Assolutamente.
+E invece no. Che mente infantile vero? Hanno ragione gli adulti a dire a noi (ragazzini): 
 
-Poi magari dico dentro di me: "forse non avevano bisogno di tutta estate; sono adulti, a loro serve meno tempo per finalizzare e pensare le cose.". Certo.
+> "ma che ne sapete voi. Siete troppo giovani". 
+
+Assolutamente.
+
+Poi magari dico dentro di me: 
+
+> "forse non avevano bisogno di tutta estate; sono adulti, a loro serve meno tempo per finalizzare e pensare le cose.". 
+
+Certo.
+
 E se ne escono con l'idea più geniale della storia del mio stato. Dato che comunque, con la fine dell'estate e il progressivo abbassarsi delle temperature, il Covid stava riprendendo piede,
 il ritorno  a scuola ci sarebbe stato, però con sempre le solite norme: mascherina e distanziamento.
 
@@ -72,7 +85,9 @@ Ma forse io ho capito la sua vera utilità e la sfrutto, mentre loro no.
 
 La disciplina in questione è la storia.
 
-"La storia serve, aiuta a non ripetere gli stessi errori commessi nel passato.", bene, allora usatela.
+> "La storia serve, aiuta a non ripetere gli stessi errori commessi nel passato.". 
+
+Bene, allora usatela.
 
 Una cosa molto semplice ho capito. Nonostante l'uomo si evolva, e faccia evolvere i suoi mezzi a disposizione (tecnologia), una pandemia resta una pandemia. E anch'essa si evolve.
 
