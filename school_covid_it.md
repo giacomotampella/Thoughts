@@ -139,3 +139,5 @@ Bene. Grazie del vostro tempo.
 Ciao ;)
 
 Bagnara di Romagna - 9 aprile 2021 - 18:36 - Italia
+
+_Fammi sapere la tua! <a href="mailto:tampella@icloud.com">tampella@icloud.com</a>_
