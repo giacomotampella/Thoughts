@@ -4,7 +4,7 @@
 
 [Pensiero #1 - La scuola al tempo del Covid](school_covid_it.md)
 
-
+----------------------------------------------------------------------------------------------------------------------------
 
 [Thought #2 - Meaning of Life](meaning_of_life_en.md)
 
