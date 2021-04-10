@@ -112,3 +112,5 @@ Vivi liberamente.
 Ciao. 
 
 Bagnara di Romagna - 8 aprile 2021 - 20:50 - Italia
+
+_Fammi sapere la tua! <a href="mailto:tampella@icloud.com">tampella@icloud.com</a>_
