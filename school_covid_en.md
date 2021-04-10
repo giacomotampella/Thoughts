@@ -140,3 +140,5 @@ Well. Thanks for your time.
 bye ;)
 
 Bagnara di Romagna - April 9, 2021 - 18:36 - Italy
+
+_Let me know what you think! <a href="mailto:tampella@icloud.com">tampella@icloud.com</a>_
