@@ -38,16 +38,29 @@ FINALLY comes summer. After a year like this it took. And how if it was needed.
 I leave home for the first time after 3 months of segregation (I don't criticize them, and I'm the first to say they were essential). I see my friends. All beautiful.
 
 I can even say that this summer, Summer-2020, was perhaps the most experienced, most desired summer.
-I still remember one evening, at the house of a friend of mine (there were 4 of us), when we said: "this summer we deserved it all, we needed it.". Very true.
+I still remember one evening, at the house of a friend of mine (there were 4 of us), when we said: 
+
+> "this summer we deserved it all, we needed it.". 
+
+Very true.
 
 I have to be honest, for a few moments I even forgot what Covid was. Yes, because in the end this was a summer more or less like any other.
 
 September arrives. And we start talking about school (in time I would say ...). We all want to go back to school. First of all, we students. And I want to underline it.
 
 As a good student I am, I imagined that within the Ministry of Education they had spent a very busy summer, having to plan the return to school of all the students of Italy.
-But no. What a childish mind is it? Adults are right to say to us (kids): "But what do you know. You are too young". Absolutely.
+But no. What a childish mind is it? Adults are right to say to us (kids): 
 
-Then maybe I say to myself: "maybe they didn't need all summer; they are adults, they need less time to finalize and think about things.". Sure.
+> "But what do you know. You are too young". 
+
+Absolutely.
+
+Then maybe I say to myself: 
+
+> "maybe they didn't need all summer; they are adults, they need less time to finalize and think about things.". 
+
+Sure.
+
 And they come up with the most brilliant idea in the history of my state. Given that, however, with the end of summer and the gradual lowering of temperatures, Covid was recovering its footing,
 there would be back to school, but always with the usual rules: mask and spacing.
 
@@ -71,7 +84,9 @@ But perhaps I have understood its true usefulness and exploit it, while they hav
 
 The discipline in question is history.
 
-"History is useful, it helps not to repeat the same mistakes made in the past.", Well, then use it.
+> "History is useful, it helps not to repeat the same mistakes made in the past.". 
+
+Well, then use it.
 
 A very simple thing I understand. Although man evolves, and makes his available means (technology) evolve, a pandemic remains a pandemic. And it too evolves.
 
