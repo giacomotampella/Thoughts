@@ -1,3 +1,5 @@
+<meta name="color-scheme" content="dark light">
+
 ## **thought**
 
 _/θɔːt/_
