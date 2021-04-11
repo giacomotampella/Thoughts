@@ -1,4 +1,21 @@
-<meta name="color-scheme" content="dark light">
+body {
+  padding: 25px;
+  background-color: white;
+  color: black;
+  font-size: 25px;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+<button onclick="myFunction()">Toggle dark mode</button>
+
+function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
 
 ## **thought**
 
