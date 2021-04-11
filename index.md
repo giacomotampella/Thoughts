@@ -1,3 +1,11 @@
+## **thought**
+
+_/θɔːt/_
+
+1. an idea or opinion produced by thinking, or occurring suddenly in the mind.
+2. the action or process of thinking.
+
+
 ## Welcome to my Thoughts
 
 ![heaven](https://raw.githubusercontent.com/giacomotampella/Thoughts/gh-pages/heaven.jpg "heaven")
