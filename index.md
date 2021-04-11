@@ -1,4 +1,4 @@
-<-- <style>
+<--<style>
 body {
   padding: 25px;
   background-color: white;
@@ -19,7 +19,7 @@ function myFunction() {
    var element = document.body;
    element.classList.toggle("dark-mode");
 }
-</script> -->
+</script>-->
 
 ## **thought**
 
