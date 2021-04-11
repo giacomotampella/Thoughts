@@ -10,7 +10,7 @@ body {
   color: white;
 }
 
-<button onclick="myFunction()">Toggle dark mode</button>
+<button onclick="myFunction()">Dark Mode</button>
 
 function myFunction() {
    var element = document.body;
