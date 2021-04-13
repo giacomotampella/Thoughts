@@ -1,3 +1,26 @@
+<style>
+body {
+  padding: 25px;
+  background-color: white;
+  color: black;
+  font-size: 25px;
+}
+
+.dark-mode {
+  background-color: #343a40;
+  color: white;
+}
+</style>
+
+<button onclick="myFunction()">Dark Mode</button>
+
+<script>
+function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
+</script>
+
 ## Thought 1
 
 ###### I want to clarify that what you will read is my thought, which changes over time, but which I wanted to fix.
