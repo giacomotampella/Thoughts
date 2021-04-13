@@ -45,7 +45,7 @@ _/θɔːt/_
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-[Pensiero #3 - Come dovrebbe essere realmente la scuola](scuola.md)
+[Pensiero #3 - Come dovrebbe essere realmente la scuola](scuola)
 
 ----------------------------------------------------------------------------------------------------------------------------
 [Twitter Live Feed](live_feed.md) <a href="https://twitter.com/GTampella?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @GTampella</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
