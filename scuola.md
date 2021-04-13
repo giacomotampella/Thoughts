@@ -32,13 +32,20 @@ Oggi è stato il mio primo giorno di rientro a scuola dopo svariati mesi.
 Durante l'ultima ora, quella di religione, il prof. ci ha fatto leggere e analizzare un discorso di Papa Francesco, il quale mi ha fatto riflettere molto.
 Riporto qui sotto le sue parole: 
 
-PAPA FRANCESCO ai docenti:
-“Vi chiedo di amare di più gli studenti ‘difficili’, quelli che non vogliono
-studiare, quelli che si trovano in condizioni di disagio, i disabili e gli stranieri, che oggi sono una grande sfida per la scuola. E ce ne sono di quelli che fanno perdere la pazienza.
-Gesù direbbe: se amate solo quelli che studiano, che sono ben educati, che merito avete? Qualsiasi insegnante si trova bene con questi studenti.
-In una società che fatica a trovare punti di riferimento – avverte Bergoglio - è necessario che i giovani trovino nella scuola un riferimento positivo. Essa può esserlo o diveltarlo se al suo interno ci sono insegnanti capaci di dare un senso alla scuola, allo studio e alla cultura, senza ridurre tutto alla sola trasmissione di conoscenze tecniche, ma puntando a costruire una relazione educativa con ciascuno studente, che deve sentirsi accolto ed amato per quello che è, con tutti i suoi limiti e le sue potenzialità.
-Per trasmettere contenuti è sufficiente un computer, per capire come si ama, quali sono i valori, e quali le abitudini che creano armonia nella società ci vuole un buon insegnante”.
-Papa Francesco
+Papa Francesco ai docenti:
+
+> “Vi chiedo di amare di più gli studenti ‘difficili’, quelli che non vogliono
+> studiare, quelli che si trovano in condizioni di disagio, i disabili e gli stranieri, che oggi sono una grande sfida per la scuola. E ce ne sono di quelli che fanno perdere la
+> pazienza.
+> Gesù direbbe: se amate solo quelli che studiano, che sono ben educati, che merito avete? Qualsiasi insegnante si trova bene con questi studenti.
+> In una società che fatica a trovare punti di riferimento – avverte Bergoglio - è necessario che i giovani trovino nella scuola un riferimento positivo. Essa può esserlo o
+> diveltarlo se al suo interno ci sono insegnanti capaci di dare un senso alla scuola, allo studio e alla cultura, senza ridurre tutto alla sola trasmissione di conoscenze
+> tecniche, ma puntando a costruire una relazione educativa con ciascuno studente, che deve sentirsi accolto ed amato per quello che è, con tutti i suoi limiti e le sue
+> potenzialità.
+> Per trasmettere contenuti è sufficiente un computer, per capire come si ama, quali sono i valori, e quali le abitudini che creano armonia nella società ci vuole un buon
+> insegnante”.
+
+#### Papa Francesco
 
 Ecco. Queste sono state le parole che mi hanno fatto riflettere e che mi hanno fatto pensare ad una cosa: la scuola è inutile.
 
