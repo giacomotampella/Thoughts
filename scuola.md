@@ -25,7 +25,7 @@ function myFunction() {
 
 ###### Ci tengo a precisare che quello che leggerete è un mio Pensiero, che cambia nel tempo, ma che volevo fissare.
 
-![ABC](https://raw.githubusercontent.com/giacomotampella/Thoughts/gh-pages/scuola.jpg "ABC")
+![ABC](https://raw.githubusercontent.com/giacomotampella/Thoughts/gh-pages/scuola.jpeg "ABC")
 
 Oggi è stato il mio primo giorno di rientro a scuola dopo svariati mesi. 
 
