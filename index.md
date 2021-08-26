@@ -12,7 +12,7 @@ body {
 }
 </style>
 
-.button {
+button {
   font-size: 10px;
 }
 
