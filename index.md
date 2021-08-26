@@ -18,7 +18,7 @@ body {
   
 </style>
 
-<button class="button" onclick="myFunction()">Dark Mode</button>
+<button class="button" onclick="myFunction()"><img src="day_night.png" alt="Light/Dark" width="50" height="60"></button>
 
 <script>
 function myFunction() {
