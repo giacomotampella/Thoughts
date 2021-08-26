@@ -10,12 +10,13 @@ body {
   background-color: #212426;
   color: #85adc7;
 }
-</style>
 
 .button {
   font-size: 10px;
   border-radius: 12px;
 }
+  
+</style>
 
 <button class="button" onclick="myFunction()">Dark Mode</button>
 
