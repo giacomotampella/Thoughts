@@ -12,11 +12,12 @@ body {
 }
 </style>
 
-button {
+.button {
   font-size: 10px;
+  border-radius: 12px;
 }
 
-<button onclick="myFunction()">Dark Mode</button>
+<button class="button" onclick="myFunction()">Dark Mode</button>
 
 <script>
 function myFunction() {
