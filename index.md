@@ -13,13 +13,13 @@ body {
 
 .button {
   font-size: 10px;
-  border-radius: 12px;
+  border-radius: 10px;
   border: none;
 }
   
 </style>
 
-<button class="button" onclick="myFunction()"><img src="day_night.png" alt="Light/Dark" width="20" height="20"></button>
+<button class="button" onclick="myFunction()"><img src="day_night.png" alt="Light/Dark" width="15" height="15"></button>
 
 <script>
 function myFunction() {
