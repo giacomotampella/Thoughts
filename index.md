@@ -15,11 +15,12 @@ body {
   font-size: 10px;
   border-radius: 10px;
   border: none;
+  background-color: white;
 }
   
 </style>
 
-<button class="button" onclick="myFunction()"><img src="day_night.png" alt="Light/Dark" width="15" height="15"></button>
+<button class="button" onclick="myFunction()"><img src="day_night.png" alt="Light/Dark" width="25" height="25"></button>
 
 <script>
 function myFunction() {
