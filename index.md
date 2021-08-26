@@ -20,7 +20,7 @@ body {
   
 </style>
 
-<button class="button" onclick="myFunction()"><img src="day_night.png" alt="Light/Dark" width="25" height="25"></button>
+<button class="button" onclick="myFunction()"><img src="day_night.png" alt="Light/Dark" width="35" height="35"></button>
 
 <script>
 function myFunction() {
