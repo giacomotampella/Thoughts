@@ -1,14 +1,14 @@
 <style>
 body {
-  padding: 15px;
-  background-color: #85adc7;
+  padding: 25px;
+  background-color: white;
   color: black;
-  font-size: 15px;
+  font-size: 25px;
 }
 
 .dark-mode {
   background-color: #212426;
-  color: white;
+  color: #85adc7;
 }
 </style>
 
