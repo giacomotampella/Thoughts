@@ -12,6 +12,10 @@ body {
 }
 </style>
 
+.button {
+  font-size: 10px;
+}
+
 <button onclick="myFunction()">Dark Mode</button>
 
 <script>
