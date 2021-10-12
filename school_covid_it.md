@@ -21,7 +21,11 @@ function myFunction() {
 }
 </script>
 
-## Pensiero 1 -------------------------------------------------------------------- ##### [#2 - Senso della Vita](meaning_of_life_it.md)
+## Pensiero 1  
+----------------------------------------------------------------------------------------------------------------------------
+<div align="right"> 
+  ##### [#2 - Senso della Vita](meaning_of_life_it.md) 
+</div>
 
 ###### Ci tengo a precisare che quello che leggerete è un mio Pensiero, che cambia nel tempo, ma che volevo fissare.
 
