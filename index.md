@@ -27,7 +27,7 @@ function myFunction() {
    var element = document.body;
    element.classList.toggle("dark-mode");
 }
-</script>-->
+</script>--> <link rel="apple-touch-icon" sizes="128x128" href="gt.png">
 
 <div align="right"><a href="indice">index</a></div>
 
