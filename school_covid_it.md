@@ -159,7 +159,7 @@ Come al solito non ho scritto tutto. Tanti pensieri vanno e vengono nella mia Me
 
 Bene. Grazie del vostro tempo.
 
-Ciao ;)
+Ciao.
 
 9 aprile 2021 - 18:36 - Italia
 
