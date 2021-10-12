@@ -59,9 +59,6 @@ _/θɔːt/_
 ----------------------------------------------------------------------------------------------------------------------------
 
 [Pensiero #3 - Come dovrebbe essere realmente la scuola](scuola)
-###### 13 Aprile 2021 - 19:40 - Italia
-
-----------------------------------------------------------------------------------------------------------------------------
--->
+###### 13 Aprile 2021 - 19:40 - Italia-->
 
 <!--[Twitter Live Feed](live_feed.md) <a href="https://twitter.com/GTampella?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @GTampella</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>-->
