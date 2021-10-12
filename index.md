@@ -31,6 +31,8 @@ function myFunction() {
 
 ## **thought**
 
+<div align="right"><a href="indice.md">index</a></div>
+
 _/θɔːt/_
 
 1. an idea or opinion produced by thinking, or occurring suddenly in the mind.
