@@ -29,9 +29,9 @@ function myFunction() {
 }
 </script>-->
 
-## **thought**
+###### <div align="right"><a href="indice.md">index</a></div>
 
-<div align="right"><a href="indice.md">index</a></div>
+## **thought** 
 
 _/θɔːt/_
 
