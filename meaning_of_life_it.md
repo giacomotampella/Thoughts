@@ -12,7 +12,7 @@ body {
 }
 </style>
 
-<button onclick="myFunction()">Dark Mode</button>
+<!--<button onclick="myFunction()">Dark Mode</button>-->
 
 <script>
 function myFunction() {
@@ -131,9 +131,13 @@ Ribellati, non aspettare. Come dicevo all'inizio, ho una visione pessimistica. E
 
 Vivi liberamente.
 
-
 Ciao. 
 
-Bagnara di Romagna - 8 aprile 2021 - 20:50 - Italia
+8 aprile 2021 - 20:50 - Italia
+
+----------------------------------------------------------------------------------------------------------------------------
+<div align="right"><a href="scuola"> --> #3 - Come dovrebbe essere realmente la scuola</a></div>
+
+----------------------------------------------------------------------------------------------------------------------------
 
 _Fammi sapere la tua! <a href="mailto:tampella@icloud.com">tampella@icloud.com</a>_
