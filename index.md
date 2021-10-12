@@ -29,7 +29,7 @@ function myFunction() {
 }
 </script>-->
 
-###### <div align="right"><a href="indice.md">index</a></div>
+<div align="right"><a href="indice.md">index</a></div>
 
 ## **thought** 
 
