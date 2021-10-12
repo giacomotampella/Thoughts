@@ -12,7 +12,7 @@ body {
 }
 </style>
 
-<button onclick="myFunction()">Dark Mode</button>
+<!--<button onclick="myFunction()">Dark Mode</button>-->
 
 <script>
 function myFunction() {
@@ -161,6 +161,8 @@ Bene. Grazie del vostro tempo.
 
 Ciao ;)
 
-Bagnara di Romagna - 9 aprile 2021 - 18:36 - Italia
+9 aprile 2021 - 18:36 - Italia
+
+<right>[Next: #2 - Senso della vita](meaning_of_life.md)</right>
 
 _Fammi sapere la tua! <a href="mailto:tampella@icloud.com">tampella@icloud.com</a>_
