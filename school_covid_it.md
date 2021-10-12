@@ -163,6 +163,6 @@ Ciao ;)
 
 9 aprile 2021 - 18:36 - Italia
 
-<div align="right">[Next: #2 - Senso della vita](meaning_of_life.md)</div>
+<div align="right">[Next: #2 - Senso della vita](meaning_of_life_it.md)</div>
 
 _Fammi sapere la tua! <a href="mailto:tampella@icloud.com">tampella@icloud.com</a>_
