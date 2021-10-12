@@ -12,7 +12,7 @@ body {
 }
 </style>
 
-<button onclick="myFunction()">Dark Mode</button>
+<!--<button onclick="myFunction()">Dark Mode</button>-->
 
 <script>
 function myFunction() {
@@ -80,8 +80,8 @@ Questo è.
 
 Grazie per il vostro tempo.
 
-Ciao ;)
-
-13/04/2021 - 19:40 - Bagnara di Romagna - Italia
+Ciao.
+  
+13 aprile 2021 - 19:40 - Italia
 
 _Fammi sapere la tua! <a href="mailto:tampella@icloud.com">tampella@icloud.com</a>_
