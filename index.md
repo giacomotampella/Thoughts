@@ -46,14 +46,14 @@ _/θɔːt/_
 <!--[Thought #1 - School at the time of Covid](school_covid_en.md) 
 ###### April 9, 2021 - 18:36 - Italy-->
 
-[Pensiero #1 - La scuola al tempo del Covid](school_covid_it.md) 
-###### 9 Aprile 2021 - 18:36 - Italia
+<!--[Pensiero #1 - La scuola al tempo del Covid](school_covid_it.md) 
+###### 9 Aprile 2021 - 18:36 - Italia-->
 
 ----------------------------------------------------------------------------------------------------------------------------
 
 <!--[Thought #2 - Meaning of Life](meaning_of_life_en.md)-->
 
-[Pensiero #2 - Senso della Vita](meaning_of_life_it.md) 
+<!--[Pensiero #2 - Senso della Vita](meaning_of_life_it.md) 
 ###### 8 Aprile 2021 - 20:50 - Italia
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -62,5 +62,6 @@ _/θɔːt/_
 ###### 13 Aprile 2021 - 19:40 - Italia
 
 ----------------------------------------------------------------------------------------------------------------------------
+-->
 
 <!--[Twitter Live Feed](live_feed.md) <a href="https://twitter.com/GTampella?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @GTampella</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>-->
