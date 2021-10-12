@@ -1,4 +1,4 @@
-<style>
+<!--<style>
 body {
   padding: 25px;
   background-color: white;
@@ -16,9 +16,9 @@ body {
   border-radius: 10px;
   border: none;
   background-color: white;
-} -->
+} 
   
-</style>
+</style> -->
 
 <!--<button class="button" onclick="myFunction()"><img src="day_night.png" alt="Light/Dark" width="35" height="35"></button>-->
 
