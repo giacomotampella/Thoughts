@@ -29,7 +29,7 @@ function myFunction() {
 }
 </script>--> <link rel="apple-touch-icon" sizes="128x128" href="gt.PNG">
 
-<div align="right"><a href="indice">index</a></div>
+<div align="right"><a href="indice">indice</a></div>
 
 ## **Pensieri** 
 
