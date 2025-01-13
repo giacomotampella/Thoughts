@@ -5,5 +5,5 @@
 - [Pensiero #2 - Senso della Vita](meaning_of_life_it)
 - [Pensiero #3 - Come dovrebbe essere realmente la scuola](scuola)
 -->
-- [Nota #1 - benvenuti](benvenuti)
+- [Nota #1 - benvenuti](nota1)
 - 
