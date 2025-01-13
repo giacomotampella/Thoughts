@@ -25,4 +25,4 @@ function myFunction() {
 
 ###### Ci tengo a precisare che quello che leggerete è un mio Pensiero, che cambia nel tempo, ma che volevo fissare.
 
-![welcome](https://github.com/giacomotampella/Thoughts/blob/gh-pages/IMGP3259.JPG?raw=true "welcome")
+![welcome](https://raw.githubusercontent.com/giacomotampella/Thoughts/refs/heads/gh-pages/IMG_5242.JPG "welcome")
