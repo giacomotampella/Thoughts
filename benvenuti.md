@@ -33,7 +33,7 @@ Ciao a tutti!
 Sinceramente non so, non ho la minima idea, di chi possano essere questi _"tutti"_, però è così che si dice, no?
 
 Voglio un attimo presentare questa cosa qui, questo sito, e giustificare un po' quello che faccio e che farò.
-Era un sito vecchio, che usavo da diario personale, dove scrivevo pensieri e cose varie, in un periodo strano della vita. 
+Era un sito vecchio, che usavo come diario personale, dove scrivevo pensieri e cose varie, in un periodo strano della vita. 
 Quelle vecchie note le ho cancellate, non avevano senso. O meglio, avevano un sacco senso per il me 17enne, frustrato dal mondo, dai sistemi ecc.
 
 Solo l'anno scorso ho letto il giovane Holden, per fortuna. Libro bellissimo che prontamente è entrato nella mia lista dei libri preferiti (non ho nessuna lista, quindi non chiedetemela). Dicevo, per fortuna che l'ho letto solamente l'anno scorso e non in quel periodo strano di un 17enne accanito contro la scuola, lo Stato ecc.
