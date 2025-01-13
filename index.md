@@ -33,13 +33,13 @@ function myFunction() {
 
 ## **Pensieri** 
 
-_/θɔːt/_
+<!--_/θɔːt/_
 
 1. an idea or opinion produced by thinking, or occurring suddenly in the mind.
-2. the action or process of thinking.
+2. the action or process of thinking.-->
 
 
-## Miei semplici e piccoli pensieri
+###### piccoli e semplici
 
 ![heaven](https://raw.githubusercontent.com/giacomotampella/Thoughts/gh-pages/heaven.jpg "heaven")
 
