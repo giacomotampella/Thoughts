@@ -54,7 +54,7 @@ Flusso di pensieri in realtà.
 Ammetto: alcune forse saranno anche difficili da capire. Ma secondo me è il bello di tutto ciò. 
 È un lavoro, un progetto, che in sincerità vi dico essere molto egoistico. Parlo di me, di quello che penso. Parlo **PER** me.
 
-Questo è fondamentale. Non arrabbiatevi, non indignatevi di quello che scrivo. È inutile. Sapete perché? Perché è così che funziona una testa.
+Questo è fondamentale. Non arrabbiatevi, non indignatevi per quello che leggerete, per ciò che ho scritto. È inutile. Sapete perché? Perché è così che funziona una testa.
 
 ahahha.
 
@@ -79,7 +79,8 @@ Giacomo :)
 
 ps. ah scusate, aggiungo un'ultima cosa. Ogni nota avrà un titolo, che, ve ne accorgerete, non servirà a niente. Proprio per via del flusso di pensieri ecc, ma tanto ormai l'avrete già capito. Avrà anche una foto, che magari a fine nota proverò di spiegare. Questa foto qui in realtà è semplice: mi piaceva. Sono io che corro in mezzo alle colline, con un panorama davvero bello. Tutto qua. Magari in futuro le altre note avranno foto/immagini legate (per quanto possibile) al contenuto della nota, ma questa assolutamente no. Tutto qua. 
 
-Ciao!
+### Ciao!
+
 ---
 
 13 gennaio 2025 - 11:43 - Italia
