@@ -31,7 +31,7 @@ function myFunction() {
 
 <div align="right"><a href="indice">index</a></div>
 
-## **thought** 
+## **Pensieri** 
 
 _/θɔːt/_
 
@@ -39,7 +39,7 @@ _/θɔːt/_
 2. the action or process of thinking.
 
 
-## Welcome to my Thoughts
+## Miei semplici e piccoli pensieri
 
 ![heaven](https://raw.githubusercontent.com/giacomotampella/Thoughts/gh-pages/heaven.jpg "heaven")
 
