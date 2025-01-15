@@ -12,7 +12,7 @@ body {
 }
 </style>
 
-<button onclick="myFunction()">Dark Mode</button>
+<!--<button onclick="myFunction()">Dark Mode</button>-->
 
 <script>
 function myFunction() {
