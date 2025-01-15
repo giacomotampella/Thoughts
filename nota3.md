@@ -32,6 +32,6 @@ function myFunction() {
 ## Nota 3 
 ###### 15 gennaio 2025
 
-<img src="https://github.com/giacomotampella/pensieri/blob/gh-pages/IMG_4056.jpg?raw=true" class="rotate90">
+<img src="https://github.com/giacomotampella/pensieri/blob/gh-pages/IMG_4056.jpg?raw=true"> <!--class="rotate90"-->
 
 ###### Ci tengo a precisare che quello che leggerete è un mio Pensiero, che cambia nel tempo, ma che volevo fissare.
