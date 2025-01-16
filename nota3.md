@@ -101,7 +101,7 @@ Ecco, anche qui: vorrei aggiungere tantissime altre cose, ma non lo faccio. Di p
 
 La cosa che però voglio dire, giusto per giustificare a pieno il titolo, è questa: il vero problema, quello che mi porta a scrivere tutto ciò, è quando quello che prima era uno sguardo, **quello** sguardo, diventa un non-sguardo. Possano esserci o non esserci motivazioni (quasi sempre ci sono), fatto sta che rimane comuqnue una cosa struggente.
 
-E mi riapro: ahimé, ~noi~, io, sono passato dal guardare il tuo sguardo, al guardare il tuo non-sguardo. Non rimpiango il tuo sguardo, no. Rimpiango il non essere riuscito a portare il mio sguardo all'altezza del tuo. 
+E mi riapro: ahimé, ~~noi~~, io, sono passato dal guardare il tuo sguardo, al guardare il tuo non-sguardo. Non rimpiango il tuo sguardo, no. Rimpiango il non essere riuscito a portare il mio sguardo all'altezza del tuo. 
 
 Del _**tuo sguardo**_.
 
